@@ -1,7 +1,10 @@
 Cold and dry, but everything is my favorite color. Uus tekst
 lisa
 lisa2567
+ja siin on vahele pandud
 lisa4
 veel lisatud rida mida on muudetud käsureal
+veel lisatud rida aga seda on muudetud veelkord hoopis siin githubis
+>>>>>>> 5dcdd2876baa1af7b402f2bf164ec18e1b895eab
 veel
 otse onlines
